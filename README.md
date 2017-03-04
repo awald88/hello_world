@@ -1,2 +1,3 @@
 # hello_world
-Try out git
+Try out changing a line
+and add a line
